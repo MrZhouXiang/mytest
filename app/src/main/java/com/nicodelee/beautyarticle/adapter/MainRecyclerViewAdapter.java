@@ -39,6 +39,9 @@ import de.greenrobot.event.EventBus;
  */
 public class MainRecyclerViewAdapter extends RecyclerView.Adapter<MainRecyclerViewAdapter.ViewHolder> {
 
+    /**
+     * 123
+     */
     private final TypedValue mTypedValue = new TypedValue();
     private ArrayList<ActicleMod> mylist;
 
